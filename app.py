@@ -1,4 +1,4 @@
-# ---------- robust Firestore init (paste this near top of app.py) ----------
+# ---------- robust Firestore init  ----------
 import streamlit as st
 import json
 import firebase_admin
