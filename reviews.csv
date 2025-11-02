@@ -1,0 +1,1001 @@
+review_id,product_id,review_text,rating,date
+R0001,P0007,Average quality for the price.,2,2023-02-02
+R0002,P0036,Not satisfied. Received wrong color.,1,2024-08-17
+R0003,P0024,Battery life could be better.,3,2024-02-21
+R0004,P0038,Good value for money and works as expected.,4,2023-09-17
+R0005,P0001,Terrible experience overall.,5,2024-09-06
+R0006,P0021,Absolutely loved it! Highly recommend.,1,2024-02-27
+R0007,P0041,Battery life could be better.,3,2023-07-24
+R0008,P0047,It stopped working after a week.,3,2024-02-19
+R0009,P0023,Absolutely loved it! Highly recommend.,4,2024-05-22
+R0010,P0020,Perfect product! Worth every rupee.,3,2024-03-11
+R0011,P0013,Absolutely loved it! Highly recommend.,5,2023-01-28
+R0012,P0046,Terrible experience overall.,2,2024-06-28
+R0013,P0048,Perfect product! Worth every rupee.,3,2023-08-19
+R0014,P0031,Battery life could be better.,4,2023-08-11
+R0015,P0049,Battery life could be better.,1,2023-07-18
+R0016,P0003,Not satisfied. Received wrong color.,4,2023-09-13
+R0017,P0014,Perfect product! Worth every rupee.,3,2023-09-09
+R0018,P0017,Item was defective upon arrival.,2,2023-09-09
+R0019,P0004,Fast delivery and great performance.,4,2023-09-08
+R0020,P0023,Terrible experience overall.,4,2024-08-03
+R0021,P0039,Fast delivery and great performance.,4,2024-05-14
+R0022,P0029,It stopped working after a week.,1,2023-04-28
+R0023,P0017,Excellent quality and delivery!,2,2023-01-10
+R0024,P0011,Amazing! Would buy again.,3,2023-03-03
+R0025,P0040,Not satisfied. Received wrong color.,4,2024-07-31
+R0026,P0028,Excellent quality and delivery!,3,2024-02-04
+R0027,P0029,Fast delivery and great performance.,3,2023-08-06
+R0028,P0031,Very poor customer support experience.,1,2023-07-27
+R0029,P0033,Absolutely loved it! Highly recommend.,3,2023-12-14
+R0030,P0048,Excellent quality and delivery!,1,2023-09-05
+R0031,P0002,Terrible experience overall.,1,2023-12-21
+R0032,P0041,Fast delivery and great performance.,4,2023-02-10
+R0033,P0049,Excellent quality and delivery!,2,2024-06-24
+R0034,P0008,Battery life could be better.,4,2024-10-18
+R0035,P0027,Very poor customer support experience.,2,2024-03-23
+R0036,P0017,It stopped working after a week.,4,2024-08-02
+R0037,P0015,Very poor customer support experience.,3,2023-08-27
+R0038,P0011,Very poor customer support experience.,2,2023-10-10
+R0039,P0024,Perfect product! Worth every rupee.,1,2023-08-12
+R0040,P0022,Absolutely loved it! Highly recommend.,2,2024-06-02
+R0041,P0011,Battery life could be better.,1,2023-08-23
+R0042,P0020,Amazing! Would buy again.,1,2023-06-05
+R0043,P0035,Excellent quality and delivery!,2,2023-05-12
+R0044,P0009,Very poor customer support experience.,2,2023-03-04
+R0045,P0046,Very poor customer support experience.,2,2024-08-26
+R0046,P0044,Item was defective upon arrival.,1,2024-07-13
+R0047,P0010,Fast delivery and great performance.,1,2023-03-17
+R0048,P0037,Good value for money and works as expected.,5,2024-08-22
+R0049,P0031,Good value for money and works as expected.,2,2023-12-21
+R0050,P0015,Exceeded expectations!,1,2023-09-24
+R0051,P0029,Amazing! Would buy again.,1,2024-03-12
+R0052,P0014,Perfect product! Worth every rupee.,3,2024-05-19
+R0053,P0005,Battery life could be better.,2,2023-03-03
+R0054,P0034,Terrible experience overall.,4,2023-09-02
+R0055,P0028,Good value for money and works as expected.,5,2023-03-02
+R0056,P0034,Terrible experience overall.,5,2024-02-08
+R0057,P0013,Excellent quality and delivery!,3,2023-05-26
+R0058,P0041,It stopped working after a week.,5,2023-06-16
+R0059,P0013,Very poor customer support experience.,5,2023-02-14
+R0060,P0019,Exceeded expectations!,2,2024-09-23
+R0061,P0005,Not satisfied. Received wrong color.,3,2023-09-27
+R0062,P0032,Battery life could be better.,1,2023-07-26
+R0063,P0026,Item was defective upon arrival.,4,2024-08-22
+R0064,P0043,Battery life could be better.,2,2023-12-30
+R0065,P0005,Battery life could be better.,2,2023-12-20
+R0066,P0024,Terrible experience overall.,3,2023-07-08
+R0067,P0018,Very poor customer support experience.,2,2023-12-29
+R0068,P0003,Fast delivery and great performance.,2,2023-07-24
+R0069,P0022,Fast delivery and great performance.,4,2024-02-06
+R0070,P0023,Battery life could be better.,4,2024-02-04
+R0071,P0015,Fast delivery and great performance.,2,2024-08-16
+R0072,P0024,Good value for money and works as expected.,3,2024-01-29
+R0073,P0042,Excellent quality and delivery!,5,2024-05-22
+R0074,P0046,Absolutely loved it! Highly recommend.,4,2024-03-06
+R0075,P0005,Battery life could be better.,3,2024-04-25
+R0076,P0032,The product was decent but packaging was bad.,5,2023-09-30
+R0077,P0046,Exceeded expectations!,3,2023-11-28
+R0078,P0021,It stopped working after a week.,4,2024-01-17
+R0079,P0020,Amazing! Would buy again.,3,2023-09-07
+R0080,P0022,The product was decent but packaging was bad.,5,2023-06-25
+R0081,P0040,Very poor customer support experience.,1,2023-06-18
+R0082,P0044,Fast delivery and great performance.,1,2023-10-23
+R0083,P0038,It stopped working after a week.,2,2023-04-11
+R0084,P0043,Good value for money and works as expected.,2,2024-10-20
+R0085,P0041,Battery life could be better.,2,2023-04-05
+R0086,P0010,Absolutely loved it! Highly recommend.,2,2024-01-23
+R0087,P0002,Very poor customer support experience.,3,2024-10-10
+R0088,P0025,Not satisfied. Received wrong color.,3,2023-07-16
+R0089,P0026,Exceeded expectations!,3,2023-11-03
+R0090,P0034,Item was defective upon arrival.,2,2023-04-08
+R0091,P0035,Battery life could be better.,4,2023-05-07
+R0092,P0002,Very poor customer support experience.,5,2024-04-11
+R0093,P0028,Terrible experience overall.,2,2023-01-25
+R0094,P0047,Average quality for the price.,3,2024-03-25
+R0095,P0013,Amazing! Would buy again.,5,2024-04-06
+R0096,P0040,Average quality for the price.,2,2023-05-05
+R0097,P0041,Good value for money and works as expected.,5,2023-06-29
+R0098,P0046,Item was defective upon arrival.,3,2024-01-19
+R0099,P0003,Exceeded expectations!,5,2023-04-04
+R0100,P0002,Amazing! Would buy again.,3,2023-11-10
+R0101,P0011,Terrible experience overall.,3,2023-06-26
+R0102,P0019,Average quality for the price.,3,2024-04-24
+R0103,P0033,Good value for money and works as expected.,4,2024-04-02
+R0104,P0018,Good value for money and works as expected.,5,2023-09-14
+R0105,P0043,Very poor customer support experience.,2,2024-01-15
+R0106,P0034,Item was defective upon arrival.,5,2023-11-12
+R0107,P0005,Average quality for the price.,2,2023-11-23
+R0108,P0003,Very poor customer support experience.,4,2024-04-08
+R0109,P0018,Battery life could be better.,4,2023-12-23
+R0110,P0003,Exceeded expectations!,2,2024-08-03
+R0111,P0005,Exceeded expectations!,4,2023-05-10
+R0112,P0034,Item was defective upon arrival.,5,2023-03-20
+R0113,P0016,Not satisfied. Received wrong color.,4,2023-03-17
+R0114,P0040,Average quality for the price.,1,2024-01-16
+R0115,P0037,Very poor customer support experience.,3,2023-01-30
+R0116,P0009,The product was decent but packaging was bad.,5,2023-06-29
+R0117,P0045,Absolutely loved it! Highly recommend.,1,2023-01-06
+R0118,P0011,Not satisfied. Received wrong color.,2,2023-07-20
+R0119,P0004,Excellent quality and delivery!,4,2024-08-03
+R0120,P0024,Perfect product! Worth every rupee.,4,2024-09-16
+R0121,P0037,It stopped working after a week.,2,2023-12-21
+R0122,P0035,Good value for money and works as expected.,1,2023-08-27
+R0123,P0048,Terrible experience overall.,5,2024-08-05
+R0124,P0006,Very poor customer support experience.,3,2023-01-31
+R0125,P0050,Exceeded expectations!,1,2024-03-27
+R0126,P0017,Amazing! Would buy again.,3,2024-07-18
+R0127,P0034,Item was defective upon arrival.,1,2024-01-05
+R0128,P0023,Terrible experience overall.,3,2023-08-27
+R0129,P0015,Very poor customer support experience.,4,2023-10-27
+R0130,P0019,Good value for money and works as expected.,2,2023-01-15
+R0131,P0011,It stopped working after a week.,1,2024-03-21
+R0132,P0024,Battery life could be better.,2,2023-01-12
+R0133,P0033,Average quality for the price.,1,2023-11-29
+R0134,P0012,It stopped working after a week.,1,2024-03-01
+R0135,P0024,Amazing! Would buy again.,2,2024-02-28
+R0136,P0008,Good value for money and works as expected.,3,2023-07-31
+R0137,P0044,Average quality for the price.,2,2024-09-08
+R0138,P0032,Not satisfied. Received wrong color.,3,2023-12-11
+R0139,P0015,Amazing! Would buy again.,1,2024-08-01
+R0140,P0014,Terrible experience overall.,1,2023-12-11
+R0141,P0023,The product was decent but packaging was bad.,5,2023-03-16
+R0142,P0031,Absolutely loved it! Highly recommend.,1,2024-03-23
+R0143,P0007,Not satisfied. Received wrong color.,4,2023-02-01
+R0144,P0027,Terrible experience overall.,4,2024-01-15
+R0145,P0013,Excellent quality and delivery!,1,2024-01-24
+R0146,P0026,Very poor customer support experience.,4,2024-03-06
+R0147,P0045,Excellent quality and delivery!,1,2024-02-24
+R0148,P0008,Battery life could be better.,2,2024-05-17
+R0149,P0017,Very poor customer support experience.,5,2023-06-26
+R0150,P0021,Terrible experience overall.,1,2024-06-13
+R0151,P0043,Battery life could be better.,2,2023-03-09
+R0152,P0013,Terrible experience overall.,3,2024-10-05
+R0153,P0026,Fast delivery and great performance.,3,2024-02-20
+R0154,P0029,Perfect product! Worth every rupee.,4,2023-12-18
+R0155,P0008,Excellent quality and delivery!,1,2023-08-23
+R0156,P0033,Not satisfied. Received wrong color.,3,2023-12-29
+R0157,P0014,Battery life could be better.,5,2024-04-29
+R0158,P0036,Average quality for the price.,4,2024-06-22
+R0159,P0038,Excellent quality and delivery!,2,2024-01-16
+R0160,P0043,Fast delivery and great performance.,3,2024-02-21
+R0161,P0044,Excellent quality and delivery!,4,2023-05-21
+R0162,P0004,It stopped working after a week.,2,2024-09-15
+R0163,P0011,Battery life could be better.,4,2024-04-21
+R0164,P0025,The product was decent but packaging was bad.,5,2023-02-24
+R0165,P0035,The product was decent but packaging was bad.,1,2023-09-08
+R0166,P0034,Amazing! Would buy again.,3,2023-01-25
+R0167,P0009,Good value for money and works as expected.,2,2024-01-08
+R0168,P0001,Good value for money and works as expected.,1,2024-09-29
+R0169,P0015,Absolutely loved it! Highly recommend.,3,2024-04-02
+R0170,P0032,Good value for money and works as expected.,5,2024-07-18
+R0171,P0003,Terrible experience overall.,5,2024-09-21
+R0172,P0019,Absolutely loved it! Highly recommend.,3,2023-12-25
+R0173,P0045,Item was defective upon arrival.,4,2024-09-19
+R0174,P0005,It stopped working after a week.,1,2023-03-06
+R0175,P0033,Good value for money and works as expected.,5,2024-05-07
+R0176,P0039,Very poor customer support experience.,2,2023-07-23
+R0177,P0005,Very poor customer support experience.,3,2024-09-18
+R0178,P0020,Battery life could be better.,4,2023-12-26
+R0179,P0035,Exceeded expectations!,4,2024-02-17
+R0180,P0040,Terrible experience overall.,3,2024-06-14
+R0181,P0007,Item was defective upon arrival.,5,2023-02-28
+R0182,P0030,Fast delivery and great performance.,3,2023-12-12
+R0183,P0032,Good value for money and works as expected.,4,2023-11-05
+R0184,P0036,The product was decent but packaging was bad.,4,2024-01-22
+R0185,P0001,The product was decent but packaging was bad.,1,2024-02-01
+R0186,P0008,It stopped working after a week.,3,2023-12-29
+R0187,P0016,Not satisfied. Received wrong color.,5,2023-08-24
+R0188,P0015,Average quality for the price.,3,2023-05-16
+R0189,P0035,Very poor customer support experience.,1,2023-07-05
+R0190,P0037,The product was decent but packaging was bad.,2,2023-09-16
+R0191,P0041,Good value for money and works as expected.,3,2024-07-07
+R0192,P0003,Exceeded expectations!,4,2023-01-31
+R0193,P0024,Excellent quality and delivery!,3,2024-03-17
+R0194,P0046,Item was defective upon arrival.,5,2023-10-14
+R0195,P0031,The product was decent but packaging was bad.,1,2023-05-23
+R0196,P0048,Fast delivery and great performance.,2,2023-06-25
+R0197,P0046,Item was defective upon arrival.,1,2024-10-05
+R0198,P0049,Absolutely loved it! Highly recommend.,3,2023-10-03
+R0199,P0005,Exceeded expectations!,2,2023-01-04
+R0200,P0028,Fast delivery and great performance.,5,2023-01-04
+R0201,P0021,It stopped working after a week.,4,2024-01-31
+R0202,P0026,Not satisfied. Received wrong color.,5,2023-04-14
+R0203,P0014,Absolutely loved it! Highly recommend.,3,2023-04-14
+R0204,P0012,Absolutely loved it! Highly recommend.,5,2023-05-16
+R0205,P0037,Item was defective upon arrival.,4,2023-08-20
+R0206,P0030,Good value for money and works as expected.,4,2024-04-29
+R0207,P0012,Very poor customer support experience.,1,2023-11-08
+R0208,P0015,Terrible experience overall.,2,2024-02-06
+R0209,P0013,Amazing! Would buy again.,3,2023-06-09
+R0210,P0043,Perfect product! Worth every rupee.,1,2024-07-29
+R0211,P0010,Good value for money and works as expected.,2,2023-02-12
+R0212,P0031,Fast delivery and great performance.,5,2024-01-25
+R0213,P0039,Average quality for the price.,3,2023-04-15
+R0214,P0042,Absolutely loved it! Highly recommend.,1,2024-10-14
+R0215,P0021,Battery life could be better.,2,2023-07-13
+R0216,P0013,Exceeded expectations!,3,2024-02-07
+R0217,P0011,It stopped working after a week.,4,2023-05-30
+R0218,P0037,Excellent quality and delivery!,2,2024-06-28
+R0219,P0038,Exceeded expectations!,2,2023-07-01
+R0220,P0036,Perfect product! Worth every rupee.,2,2024-01-02
+R0221,P0020,Absolutely loved it! Highly recommend.,4,2024-11-01
+R0222,P0047,Perfect product! Worth every rupee.,1,2023-07-09
+R0223,P0038,Very poor customer support experience.,2,2024-03-25
+R0224,P0049,Not satisfied. Received wrong color.,2,2023-06-26
+R0225,P0050,Amazing! Would buy again.,5,2024-04-07
+R0226,P0005,It stopped working after a week.,2,2023-03-30
+R0227,P0020,Not satisfied. Received wrong color.,5,2023-03-19
+R0228,P0036,Fast delivery and great performance.,5,2023-09-07
+R0229,P0011,Amazing! Would buy again.,5,2024-04-17
+R0230,P0022,Absolutely loved it! Highly recommend.,2,2024-05-03
+R0231,P0048,Battery life could be better.,4,2024-03-14
+R0232,P0001,Average quality for the price.,5,2023-02-04
+R0233,P0034,The product was decent but packaging was bad.,3,2024-07-24
+R0234,P0015,Amazing! Would buy again.,3,2023-01-19
+R0235,P0031,Excellent quality and delivery!,3,2024-02-14
+R0236,P0044,Perfect product! Worth every rupee.,3,2023-06-09
+R0237,P0047,Excellent quality and delivery!,3,2023-08-28
+R0238,P0010,Perfect product! Worth every rupee.,1,2024-09-02
+R0239,P0014,Good value for money and works as expected.,2,2023-06-13
+R0240,P0005,Battery life could be better.,2,2024-09-25
+R0241,P0015,Excellent quality and delivery!,5,2024-05-25
+R0242,P0008,Not satisfied. Received wrong color.,1,2024-05-15
+R0243,P0046,Battery life could be better.,5,2024-07-10
+R0244,P0045,Fast delivery and great performance.,5,2023-07-20
+R0245,P0040,Not satisfied. Received wrong color.,2,2023-04-13
+R0246,P0018,The product was decent but packaging was bad.,3,2024-10-06
+R0247,P0015,Item was defective upon arrival.,4,2024-07-11
+R0248,P0045,Perfect product! Worth every rupee.,4,2024-02-01
+R0249,P0034,It stopped working after a week.,2,2023-09-01
+R0250,P0019,Very poor customer support experience.,4,2023-07-26
+R0251,P0006,Average quality for the price.,1,2023-01-21
+R0252,P0020,Fast delivery and great performance.,1,2024-02-10
+R0253,P0013,Perfect product! Worth every rupee.,4,2024-02-18
+R0254,P0011,Item was defective upon arrival.,4,2024-04-07
+R0255,P0002,Excellent quality and delivery!,5,2023-01-25
+R0256,P0029,Item was defective upon arrival.,3,2023-05-25
+R0257,P0033,Not satisfied. Received wrong color.,2,2024-05-27
+R0258,P0003,Average quality for the price.,4,2023-11-21
+R0259,P0012,Terrible experience overall.,3,2024-07-09
+R0260,P0010,Good value for money and works as expected.,2,2023-05-03
+R0261,P0014,Fast delivery and great performance.,2,2024-09-19
+R0262,P0047,It stopped working after a week.,2,2024-06-28
+R0263,P0050,The product was decent but packaging was bad.,5,2024-01-21
+R0264,P0018,Not satisfied. Received wrong color.,3,2024-10-22
+R0265,P0018,Excellent quality and delivery!,1,2024-03-19
+R0266,P0036,Battery life could be better.,3,2023-07-28
+R0267,P0028,Fast delivery and great performance.,3,2024-03-27
+R0268,P0046,It stopped working after a week.,1,2024-05-28
+R0269,P0004,Good value for money and works as expected.,4,2023-02-26
+R0270,P0044,Excellent quality and delivery!,5,2023-04-06
+R0271,P0017,Absolutely loved it! Highly recommend.,5,2024-05-26
+R0272,P0035,Terrible experience overall.,5,2024-09-29
+R0273,P0027,Not satisfied. Received wrong color.,1,2023-12-16
+R0274,P0028,Terrible experience overall.,1,2023-03-31
+R0275,P0020,Very poor customer support experience.,4,2024-02-27
+R0276,P0041,Perfect product! Worth every rupee.,1,2024-04-29
+R0277,P0044,Terrible experience overall.,4,2023-05-10
+R0278,P0010,Good value for money and works as expected.,5,2023-06-20
+R0279,P0015,Terrible experience overall.,1,2023-10-10
+R0280,P0046,The product was decent but packaging was bad.,2,2023-10-05
+R0281,P0005,Very poor customer support experience.,3,2023-07-14
+R0282,P0015,Amazing! Would buy again.,5,2023-04-03
+R0283,P0040,Amazing! Would buy again.,5,2024-04-20
+R0284,P0027,Amazing! Would buy again.,4,2024-10-09
+R0285,P0048,Average quality for the price.,3,2023-05-07
+R0286,P0014,Perfect product! Worth every rupee.,2,2023-09-02
+R0287,P0027,Item was defective upon arrival.,1,2023-10-22
+R0288,P0049,Average quality for the price.,4,2024-05-10
+R0289,P0017,Fast delivery and great performance.,3,2024-02-13
+R0290,P0024,Fast delivery and great performance.,3,2024-10-05
+R0291,P0013,Excellent quality and delivery!,1,2023-06-10
+R0292,P0007,Item was defective upon arrival.,2,2023-06-30
+R0293,P0024,Fast delivery and great performance.,2,2024-03-28
+R0294,P0013,Exceeded expectations!,5,2024-09-15
+R0295,P0014,Amazing! Would buy again.,4,2023-05-31
+R0296,P0044,Excellent quality and delivery!,2,2023-06-03
+R0297,P0026,Very poor customer support experience.,2,2024-08-17
+R0298,P0045,Exceeded expectations!,5,2023-09-13
+R0299,P0018,Fast delivery and great performance.,3,2023-10-21
+R0300,P0038,Excellent quality and delivery!,2,2024-03-01
+R0301,P0037,Fast delivery and great performance.,4,2024-03-27
+R0302,P0032,Item was defective upon arrival.,4,2023-08-23
+R0303,P0003,Fast delivery and great performance.,1,2024-02-05
+R0304,P0006,It stopped working after a week.,4,2023-09-27
+R0305,P0036,Terrible experience overall.,2,2024-06-11
+R0306,P0021,Excellent quality and delivery!,3,2023-12-13
+R0307,P0020,Absolutely loved it! Highly recommend.,5,2023-09-10
+R0308,P0049,Amazing! Would buy again.,3,2023-02-27
+R0309,P0033,Fast delivery and great performance.,1,2024-09-23
+R0310,P0001,Exceeded expectations!,1,2024-09-01
+R0311,P0031,Average quality for the price.,4,2023-12-06
+R0312,P0022,Absolutely loved it! Highly recommend.,3,2023-10-30
+R0313,P0014,Terrible experience overall.,1,2023-10-28
+R0314,P0017,Average quality for the price.,3,2024-09-20
+R0315,P0004,Excellent quality and delivery!,3,2023-02-18
+R0316,P0007,Perfect product! Worth every rupee.,2,2023-10-05
+R0317,P0022,The product was decent but packaging was bad.,3,2023-12-29
+R0318,P0012,Terrible experience overall.,2,2024-10-24
+R0319,P0015,Amazing! Would buy again.,5,2023-07-09
+R0320,P0036,It stopped working after a week.,3,2024-02-29
+R0321,P0050,It stopped working after a week.,5,2023-10-27
+R0322,P0009,Perfect product! Worth every rupee.,3,2023-09-29
+R0323,P0026,Fast delivery and great performance.,5,2023-11-16
+R0324,P0003,Average quality for the price.,3,2024-01-26
+R0325,P0036,Battery life could be better.,3,2023-12-21
+R0326,P0038,Average quality for the price.,3,2023-11-11
+R0327,P0037,Item was defective upon arrival.,1,2024-02-24
+R0328,P0020,The product was decent but packaging was bad.,5,2023-12-09
+R0329,P0012,Excellent quality and delivery!,2,2024-03-27
+R0330,P0030,Item was defective upon arrival.,4,2023-10-31
+R0331,P0019,Excellent quality and delivery!,2,2024-08-03
+R0332,P0038,Battery life could be better.,4,2024-06-23
+R0333,P0014,Item was defective upon arrival.,3,2024-03-07
+R0334,P0024,Terrible experience overall.,2,2023-06-15
+R0335,P0046,Terrible experience overall.,4,2024-04-21
+R0336,P0009,Item was defective upon arrival.,1,2024-08-15
+R0337,P0013,Very poor customer support experience.,4,2023-11-05
+R0338,P0022,Amazing! Would buy again.,5,2024-08-07
+R0339,P0030,Not satisfied. Received wrong color.,5,2023-01-05
+R0340,P0050,The product was decent but packaging was bad.,5,2024-10-17
+R0341,P0017,Exceeded expectations!,2,2023-03-17
+R0342,P0042,Exceeded expectations!,2,2024-08-07
+R0343,P0010,Exceeded expectations!,1,2024-08-15
+R0344,P0012,Excellent quality and delivery!,3,2024-01-24
+R0345,P0030,Battery life could be better.,5,2024-05-14
+R0346,P0036,Battery life could be better.,4,2024-07-25
+R0347,P0039,Exceeded expectations!,1,2023-06-06
+R0348,P0044,The product was decent but packaging was bad.,2,2023-01-05
+R0349,P0040,Excellent quality and delivery!,5,2023-04-23
+R0350,P0034,Absolutely loved it! Highly recommend.,1,2023-09-20
+R0351,P0032,Perfect product! Worth every rupee.,5,2023-05-24
+R0352,P0003,Excellent quality and delivery!,3,2024-01-24
+R0353,P0034,Perfect product! Worth every rupee.,2,2024-06-23
+R0354,P0008,Exceeded expectations!,1,2023-02-21
+R0355,P0001,Perfect product! Worth every rupee.,2,2024-05-03
+R0356,P0002,Good value for money and works as expected.,2,2024-08-01
+R0357,P0008,Exceeded expectations!,3,2023-01-12
+R0358,P0047,Terrible experience overall.,2,2023-09-19
+R0359,P0035,Fast delivery and great performance.,4,2023-11-08
+R0360,P0029,Absolutely loved it! Highly recommend.,4,2023-06-29
+R0361,P0040,Terrible experience overall.,5,2023-05-09
+R0362,P0050,Amazing! Would buy again.,4,2023-08-31
+R0363,P0028,Item was defective upon arrival.,1,2023-07-08
+R0364,P0050,It stopped working after a week.,2,2024-09-14
+R0365,P0042,Battery life could be better.,4,2024-02-11
+R0366,P0050,Exceeded expectations!,4,2024-03-05
+R0367,P0048,It stopped working after a week.,1,2023-04-29
+R0368,P0013,It stopped working after a week.,5,2023-09-19
+R0369,P0023,Item was defective upon arrival.,3,2024-07-02
+R0370,P0039,Average quality for the price.,4,2024-05-12
+R0371,P0010,Exceeded expectations!,4,2023-04-11
+R0372,P0033,Amazing! Would buy again.,5,2024-11-01
+R0373,P0007,The product was decent but packaging was bad.,5,2023-02-10
+R0374,P0045,Absolutely loved it! Highly recommend.,2,2024-10-28
+R0375,P0045,Very poor customer support experience.,2,2024-07-26
+R0376,P0021,Amazing! Would buy again.,3,2024-03-09
+R0377,P0038,Absolutely loved it! Highly recommend.,4,2023-10-01
+R0378,P0043,Amazing! Would buy again.,5,2023-08-07
+R0379,P0003,The product was decent but packaging was bad.,3,2023-01-27
+R0380,P0012,Exceeded expectations!,2,2024-09-29
+R0381,P0017,Exceeded expectations!,2,2024-02-11
+R0382,P0027,Item was defective upon arrival.,4,2023-03-24
+R0383,P0041,It stopped working after a week.,1,2023-09-01
+R0384,P0006,Battery life could be better.,5,2023-03-05
+R0385,P0044,The product was decent but packaging was bad.,4,2023-03-18
+R0386,P0011,Terrible experience overall.,1,2023-11-17
+R0387,P0003,Perfect product! Worth every rupee.,1,2024-06-27
+R0388,P0030,Item was defective upon arrival.,5,2024-01-29
+R0389,P0030,Very poor customer support experience.,5,2023-10-02
+R0390,P0046,Good value for money and works as expected.,3,2024-05-23
+R0391,P0021,Exceeded expectations!,1,2024-05-05
+R0392,P0002,Absolutely loved it! Highly recommend.,1,2024-01-23
+R0393,P0041,Exceeded expectations!,2,2023-02-02
+R0394,P0032,Absolutely loved it! Highly recommend.,2,2023-02-14
+R0395,P0038,Item was defective upon arrival.,1,2024-10-29
+R0396,P0008,Not satisfied. Received wrong color.,1,2024-03-23
+R0397,P0026,Absolutely loved it! Highly recommend.,3,2023-01-07
+R0398,P0049,Amazing! Would buy again.,2,2024-08-14
+R0399,P0009,It stopped working after a week.,1,2023-08-07
+R0400,P0030,Average quality for the price.,1,2024-01-16
+R0401,P0016,Fast delivery and great performance.,5,2023-10-15
+R0402,P0009,Very poor customer support experience.,2,2024-04-10
+R0403,P0045,The product was decent but packaging was bad.,3,2023-05-01
+R0404,P0037,Not satisfied. Received wrong color.,3,2024-01-29
+R0405,P0036,Terrible experience overall.,5,2023-02-03
+R0406,P0039,Excellent quality and delivery!,2,2023-07-31
+R0407,P0050,Exceeded expectations!,3,2023-12-02
+R0408,P0031,Perfect product! Worth every rupee.,3,2023-01-17
+R0409,P0001,Excellent quality and delivery!,4,2024-03-03
+R0410,P0015,Good value for money and works as expected.,2,2024-03-24
+R0411,P0001,Terrible experience overall.,3,2024-05-08
+R0412,P0034,Amazing! Would buy again.,3,2023-10-14
+R0413,P0015,Fast delivery and great performance.,5,2023-08-27
+R0414,P0029,Battery life could be better.,2,2024-02-29
+R0415,P0027,Absolutely loved it! Highly recommend.,4,2024-04-10
+R0416,P0038,It stopped working after a week.,3,2024-07-28
+R0417,P0026,Item was defective upon arrival.,4,2023-11-25
+R0418,P0029,The product was decent but packaging was bad.,3,2023-04-12
+R0419,P0038,Absolutely loved it! Highly recommend.,1,2024-08-03
+R0420,P0016,Exceeded expectations!,2,2024-01-30
+R0421,P0016,The product was decent but packaging was bad.,5,2023-04-09
+R0422,P0002,Average quality for the price.,3,2023-05-04
+R0423,P0026,Battery life could be better.,5,2023-04-11
+R0424,P0020,Very poor customer support experience.,1,2023-05-31
+R0425,P0009,Fast delivery and great performance.,3,2023-06-20
+R0426,P0007,Battery life could be better.,3,2024-05-07
+R0427,P0048,It stopped working after a week.,4,2023-04-25
+R0428,P0027,Battery life could be better.,2,2024-08-28
+R0429,P0041,Not satisfied. Received wrong color.,4,2024-02-13
+R0430,P0012,It stopped working after a week.,1,2023-02-23
+R0431,P0034,Fast delivery and great performance.,2,2023-07-22
+R0432,P0023,Exceeded expectations!,4,2023-03-09
+R0433,P0005,Terrible experience overall.,3,2023-07-13
+R0434,P0030,Battery life could be better.,1,2023-10-30
+R0435,P0033,Exceeded expectations!,2,2024-04-26
+R0436,P0042,It stopped working after a week.,5,2024-05-08
+R0437,P0031,Fast delivery and great performance.,4,2024-01-08
+R0438,P0016,Perfect product! Worth every rupee.,3,2023-02-23
+R0439,P0008,Perfect product! Worth every rupee.,4,2023-05-01
+R0440,P0035,Excellent quality and delivery!,1,2023-02-04
+R0441,P0017,It stopped working after a week.,1,2024-10-29
+R0442,P0035,Absolutely loved it! Highly recommend.,3,2024-05-28
+R0443,P0016,Average quality for the price.,5,2024-08-07
+R0444,P0024,Absolutely loved it! Highly recommend.,1,2024-08-10
+R0445,P0020,Amazing! Would buy again.,2,2023-06-27
+R0446,P0035,Absolutely loved it! Highly recommend.,2,2023-09-07
+R0447,P0019,Not satisfied. Received wrong color.,1,2024-06-05
+R0448,P0050,Exceeded expectations!,2,2024-02-29
+R0449,P0029,Amazing! Would buy again.,4,2023-09-03
+R0450,P0033,The product was decent but packaging was bad.,4,2023-09-07
+R0451,P0011,Very poor customer support experience.,3,2024-09-29
+R0452,P0003,Item was defective upon arrival.,1,2024-03-24
+R0453,P0030,It stopped working after a week.,4,2023-01-04
+R0454,P0036,Battery life could be better.,2,2023-02-23
+R0455,P0006,Fast delivery and great performance.,4,2024-06-26
+R0456,P0020,Exceeded expectations!,2,2024-02-18
+R0457,P0026,It stopped working after a week.,3,2024-04-30
+R0458,P0007,Absolutely loved it! Highly recommend.,2,2023-10-02
+R0459,P0018,Fast delivery and great performance.,2,2023-01-13
+R0460,P0037,Average quality for the price.,5,2023-06-01
+R0461,P0049,Perfect product! Worth every rupee.,4,2023-03-19
+R0462,P0022,Absolutely loved it! Highly recommend.,4,2024-08-16
+R0463,P0048,Fast delivery and great performance.,5,2023-12-15
+R0464,P0013,Absolutely loved it! Highly recommend.,2,2023-02-18
+R0465,P0012,Fast delivery and great performance.,1,2023-02-04
+R0466,P0026,Average quality for the price.,3,2024-08-27
+R0467,P0034,Absolutely loved it! Highly recommend.,5,2023-01-06
+R0468,P0037,Excellent quality and delivery!,3,2023-06-07
+R0469,P0014,Not satisfied. Received wrong color.,1,2023-02-01
+R0470,P0022,Battery life could be better.,2,2024-10-09
+R0471,P0041,Very poor customer support experience.,4,2024-02-02
+R0472,P0048,Not satisfied. Received wrong color.,1,2023-03-30
+R0473,P0010,Amazing! Would buy again.,4,2023-02-09
+R0474,P0017,Good value for money and works as expected.,3,2024-02-28
+R0475,P0037,Excellent quality and delivery!,2,2024-02-08
+R0476,P0040,Terrible experience overall.,5,2023-09-05
+R0477,P0041,Not satisfied. Received wrong color.,5,2024-09-15
+R0478,P0028,The product was decent but packaging was bad.,1,2023-12-26
+R0479,P0029,Exceeded expectations!,3,2023-07-06
+R0480,P0030,Item was defective upon arrival.,1,2024-05-05
+R0481,P0001,The product was decent but packaging was bad.,5,2024-04-18
+R0482,P0016,Item was defective upon arrival.,2,2024-02-11
+R0483,P0001,The product was decent but packaging was bad.,4,2023-10-02
+R0484,P0016,Perfect product! Worth every rupee.,5,2024-08-11
+R0485,P0047,Amazing! Would buy again.,5,2023-12-28
+R0486,P0028,Fast delivery and great performance.,4,2023-02-01
+R0487,P0018,Perfect product! Worth every rupee.,4,2024-04-23
+R0488,P0015,The product was decent but packaging was bad.,1,2024-05-22
+R0489,P0011,Excellent quality and delivery!,1,2023-01-01
+R0490,P0036,Absolutely loved it! Highly recommend.,4,2023-12-03
+R0491,P0021,Exceeded expectations!,2,2023-09-11
+R0492,P0008,Amazing! Would buy again.,1,2023-05-31
+R0493,P0020,Item was defective upon arrival.,1,2023-10-14
+R0494,P0044,Very poor customer support experience.,4,2024-08-21
+R0495,P0032,Amazing! Would buy again.,3,2024-08-14
+R0496,P0046,Good value for money and works as expected.,3,2024-01-05
+R0497,P0044,Amazing! Would buy again.,1,2023-03-30
+R0498,P0048,Very poor customer support experience.,5,2023-09-07
+R0499,P0033,Item was defective upon arrival.,4,2023-12-15
+R0500,P0003,Exceeded expectations!,1,2024-03-02
+R0501,P0050,The product was decent but packaging was bad.,5,2023-04-16
+R0502,P0032,Perfect product! Worth every rupee.,4,2024-04-26
+R0503,P0032,Fast delivery and great performance.,3,2023-04-05
+R0504,P0036,Average quality for the price.,5,2024-04-17
+R0505,P0006,Exceeded expectations!,5,2023-03-02
+R0506,P0041,Good value for money and works as expected.,4,2023-01-22
+R0507,P0042,It stopped working after a week.,4,2023-09-06
+R0508,P0049,Absolutely loved it! Highly recommend.,4,2023-10-27
+R0509,P0018,Amazing! Would buy again.,1,2024-01-04
+R0510,P0020,Amazing! Would buy again.,2,2023-07-23
+R0511,P0043,Not satisfied. Received wrong color.,3,2024-03-06
+R0512,P0021,Item was defective upon arrival.,5,2023-09-17
+R0513,P0044,Not satisfied. Received wrong color.,2,2023-08-31
+R0514,P0047,Average quality for the price.,3,2024-09-01
+R0515,P0021,Not satisfied. Received wrong color.,5,2023-09-20
+R0516,P0013,Amazing! Would buy again.,5,2024-02-24
+R0517,P0005,Amazing! Would buy again.,1,2024-04-01
+R0518,P0028,Good value for money and works as expected.,4,2024-02-29
+R0519,P0001,Perfect product! Worth every rupee.,5,2023-10-19
+R0520,P0040,Excellent quality and delivery!,5,2024-09-22
+R0521,P0031,Item was defective upon arrival.,3,2024-06-09
+R0522,P0035,Terrible experience overall.,3,2023-12-20
+R0523,P0025,Average quality for the price.,5,2023-08-29
+R0524,P0024,It stopped working after a week.,4,2023-08-02
+R0525,P0028,Fast delivery and great performance.,3,2024-04-01
+R0526,P0022,Battery life could be better.,2,2024-08-21
+R0527,P0011,Excellent quality and delivery!,3,2023-10-14
+R0528,P0042,Excellent quality and delivery!,5,2023-12-19
+R0529,P0045,Amazing! Would buy again.,1,2023-11-14
+R0530,P0011,Exceeded expectations!,3,2024-01-14
+R0531,P0002,The product was decent but packaging was bad.,5,2024-05-07
+R0532,P0016,Excellent quality and delivery!,4,2024-01-23
+R0533,P0013,Average quality for the price.,1,2024-03-16
+R0534,P0040,Average quality for the price.,2,2023-12-13
+R0535,P0033,Very poor customer support experience.,1,2023-01-17
+R0536,P0018,Very poor customer support experience.,2,2024-09-21
+R0537,P0036,Fast delivery and great performance.,4,2023-01-30
+R0538,P0040,Fast delivery and great performance.,5,2024-07-16
+R0539,P0017,Battery life could be better.,2,2023-05-27
+R0540,P0041,Average quality for the price.,2,2023-12-02
+R0541,P0040,It stopped working after a week.,2,2023-12-05
+R0542,P0034,Perfect product! Worth every rupee.,4,2023-07-18
+R0543,P0033,The product was decent but packaging was bad.,1,2024-04-23
+R0544,P0017,Battery life could be better.,1,2023-01-19
+R0545,P0011,Exceeded expectations!,2,2024-10-15
+R0546,P0030,Absolutely loved it! Highly recommend.,3,2024-04-16
+R0547,P0024,Item was defective upon arrival.,3,2023-11-27
+R0548,P0037,It stopped working after a week.,4,2024-02-15
+R0549,P0041,Absolutely loved it! Highly recommend.,2,2024-03-25
+R0550,P0037,Average quality for the price.,4,2023-07-14
+R0551,P0021,It stopped working after a week.,3,2023-03-03
+R0552,P0002,Good value for money and works as expected.,3,2024-08-12
+R0553,P0025,Good value for money and works as expected.,3,2024-09-17
+R0554,P0039,The product was decent but packaging was bad.,5,2024-05-06
+R0555,P0049,Absolutely loved it! Highly recommend.,5,2023-03-01
+R0556,P0043,Exceeded expectations!,5,2024-09-19
+R0557,P0049,Amazing! Would buy again.,2,2023-08-18
+R0558,P0040,Amazing! Would buy again.,1,2024-07-26
+R0559,P0004,Excellent quality and delivery!,1,2024-09-22
+R0560,P0022,Amazing! Would buy again.,5,2023-10-20
+R0561,P0008,Terrible experience overall.,2,2023-07-31
+R0562,P0027,The product was decent but packaging was bad.,5,2024-08-28
+R0563,P0044,Terrible experience overall.,4,2023-05-11
+R0564,P0016,Fast delivery and great performance.,1,2024-08-16
+R0565,P0007,Absolutely loved it! Highly recommend.,3,2024-09-30
+R0566,P0005,Item was defective upon arrival.,5,2024-08-17
+R0567,P0017,Battery life could be better.,2,2023-05-20
+R0568,P0025,The product was decent but packaging was bad.,3,2023-10-06
+R0569,P0003,Amazing! Would buy again.,1,2023-10-16
+R0570,P0039,Amazing! Would buy again.,5,2023-11-15
+R0571,P0025,Very poor customer support experience.,3,2023-08-20
+R0572,P0030,Good value for money and works as expected.,2,2023-06-12
+R0573,P0010,The product was decent but packaging was bad.,2,2023-12-05
+R0574,P0030,Excellent quality and delivery!,4,2023-05-23
+R0575,P0014,Battery life could be better.,1,2024-06-09
+R0576,P0011,Fast delivery and great performance.,5,2024-02-14
+R0577,P0005,Excellent quality and delivery!,2,2023-09-16
+R0578,P0017,It stopped working after a week.,5,2023-06-12
+R0579,P0041,Battery life could be better.,2,2023-09-11
+R0580,P0008,Fast delivery and great performance.,3,2023-06-07
+R0581,P0025,Excellent quality and delivery!,4,2024-01-21
+R0582,P0015,It stopped working after a week.,3,2024-02-14
+R0583,P0003,Perfect product! Worth every rupee.,4,2023-10-20
+R0584,P0002,Good value for money and works as expected.,5,2024-01-11
+R0585,P0035,Very poor customer support experience.,5,2024-06-27
+R0586,P0013,Perfect product! Worth every rupee.,1,2024-02-23
+R0587,P0016,Exceeded expectations!,3,2023-01-02
+R0588,P0043,Amazing! Would buy again.,4,2024-04-09
+R0589,P0019,Fast delivery and great performance.,3,2023-06-04
+R0590,P0025,Very poor customer support experience.,2,2023-09-23
+R0591,P0008,Exceeded expectations!,1,2024-04-06
+R0592,P0041,Perfect product! Worth every rupee.,5,2023-04-07
+R0593,P0022,Amazing! Would buy again.,2,2023-03-05
+R0594,P0044,Fast delivery and great performance.,1,2023-08-29
+R0595,P0034,Exceeded expectations!,2,2023-11-11
+R0596,P0046,Absolutely loved it! Highly recommend.,2,2024-06-23
+R0597,P0031,The product was decent but packaging was bad.,2,2023-08-12
+R0598,P0013,Very poor customer support experience.,2,2023-10-17
+R0599,P0048,Terrible experience overall.,2,2024-04-20
+R0600,P0031,It stopped working after a week.,3,2024-04-21
+R0601,P0019,Item was defective upon arrival.,1,2023-03-21
+R0602,P0007,Perfect product! Worth every rupee.,2,2023-12-11
+R0603,P0013,Item was defective upon arrival.,4,2024-04-18
+R0604,P0025,Absolutely loved it! Highly recommend.,2,2024-06-17
+R0605,P0029,Not satisfied. Received wrong color.,5,2023-07-10
+R0606,P0022,Excellent quality and delivery!,3,2023-03-08
+R0607,P0005,Battery life could be better.,2,2024-01-26
+R0608,P0028,Battery life could be better.,3,2023-01-10
+R0609,P0038,Terrible experience overall.,1,2024-05-15
+R0610,P0024,Good value for money and works as expected.,2,2023-07-16
+R0611,P0026,Fast delivery and great performance.,3,2023-12-04
+R0612,P0050,It stopped working after a week.,2,2023-10-01
+R0613,P0028,Absolutely loved it! Highly recommend.,3,2024-01-02
+R0614,P0007,Amazing! Would buy again.,3,2023-08-07
+R0615,P0006,Battery life could be better.,1,2024-06-28
+R0616,P0026,Exceeded expectations!,5,2023-01-11
+R0617,P0003,Fast delivery and great performance.,4,2023-10-29
+R0618,P0025,Fast delivery and great performance.,5,2024-07-31
+R0619,P0033,Excellent quality and delivery!,1,2023-06-23
+R0620,P0008,Exceeded expectations!,2,2024-02-01
+R0621,P0002,Item was defective upon arrival.,5,2023-01-20
+R0622,P0030,Very poor customer support experience.,3,2024-04-12
+R0623,P0043,Good value for money and works as expected.,5,2024-09-15
+R0624,P0006,Average quality for the price.,3,2023-04-23
+R0625,P0025,The product was decent but packaging was bad.,3,2024-07-31
+R0626,P0040,Item was defective upon arrival.,2,2024-03-16
+R0627,P0041,Item was defective upon arrival.,1,2024-09-23
+R0628,P0018,Terrible experience overall.,1,2024-09-01
+R0629,P0020,Absolutely loved it! Highly recommend.,1,2024-07-25
+R0630,P0042,Amazing! Would buy again.,4,2023-05-25
+R0631,P0015,Perfect product! Worth every rupee.,5,2024-03-02
+R0632,P0033,Battery life could be better.,4,2024-06-01
+R0633,P0019,Perfect product! Worth every rupee.,1,2024-02-10
+R0634,P0013,Good value for money and works as expected.,4,2023-11-05
+R0635,P0031,Excellent quality and delivery!,3,2023-04-11
+R0636,P0032,Perfect product! Worth every rupee.,3,2024-08-27
+R0637,P0022,The product was decent but packaging was bad.,5,2024-04-19
+R0638,P0044,The product was decent but packaging was bad.,3,2023-04-20
+R0639,P0031,Exceeded expectations!,1,2023-08-30
+R0640,P0037,It stopped working after a week.,5,2024-08-25
+R0641,P0040,Exceeded expectations!,3,2023-11-23
+R0642,P0046,Fast delivery and great performance.,5,2023-09-21
+R0643,P0028,Average quality for the price.,2,2023-07-13
+R0644,P0003,Battery life could be better.,4,2023-05-09
+R0645,P0012,Very poor customer support experience.,3,2023-11-26
+R0646,P0011,Fast delivery and great performance.,1,2024-03-11
+R0647,P0024,Battery life could be better.,4,2024-09-29
+R0648,P0004,Average quality for the price.,4,2023-07-14
+R0649,P0035,Not satisfied. Received wrong color.,5,2024-07-19
+R0650,P0032,Battery life could be better.,2,2023-10-08
+R0651,P0033,Item was defective upon arrival.,2,2023-02-15
+R0652,P0037,Average quality for the price.,5,2023-10-08
+R0653,P0021,Amazing! Would buy again.,2,2023-04-10
+R0654,P0017,Absolutely loved it! Highly recommend.,1,2024-01-17
+R0655,P0023,Average quality for the price.,4,2024-05-27
+R0656,P0002,Fast delivery and great performance.,5,2023-10-07
+R0657,P0025,Absolutely loved it! Highly recommend.,5,2024-09-09
+R0658,P0018,Excellent quality and delivery!,4,2023-06-19
+R0659,P0039,Exceeded expectations!,4,2023-05-04
+R0660,P0037,Absolutely loved it! Highly recommend.,3,2023-04-11
+R0661,P0039,Not satisfied. Received wrong color.,4,2023-12-22
+R0662,P0015,Not satisfied. Received wrong color.,4,2023-08-02
+R0663,P0038,Not satisfied. Received wrong color.,1,2023-09-19
+R0664,P0039,Perfect product! Worth every rupee.,1,2024-05-01
+R0665,P0038,Fast delivery and great performance.,4,2023-07-08
+R0666,P0038,Absolutely loved it! Highly recommend.,2,2023-05-12
+R0667,P0017,Terrible experience overall.,5,2024-01-14
+R0668,P0015,Not satisfied. Received wrong color.,1,2024-10-05
+R0669,P0013,It stopped working after a week.,5,2024-06-15
+R0670,P0016,Absolutely loved it! Highly recommend.,4,2024-01-02
+R0671,P0027,Item was defective upon arrival.,1,2023-03-05
+R0672,P0039,Average quality for the price.,5,2024-06-11
+R0673,P0009,Battery life could be better.,3,2023-12-23
+R0674,P0010,Terrible experience overall.,4,2023-11-06
+R0675,P0014,Exceeded expectations!,3,2023-12-14
+R0676,P0049,Very poor customer support experience.,1,2024-01-08
+R0677,P0030,Excellent quality and delivery!,1,2024-09-24
+R0678,P0047,Fast delivery and great performance.,1,2023-12-07
+R0679,P0004,Item was defective upon arrival.,5,2024-09-29
+R0680,P0046,Battery life could be better.,2,2024-10-27
+R0681,P0012,Good value for money and works as expected.,2,2023-01-25
+R0682,P0030,Excellent quality and delivery!,2,2023-12-28
+R0683,P0035,The product was decent but packaging was bad.,1,2024-03-22
+R0684,P0034,Exceeded expectations!,4,2023-04-13
+R0685,P0038,Very poor customer support experience.,1,2023-01-16
+R0686,P0025,Exceeded expectations!,4,2023-10-07
+R0687,P0013,Very poor customer support experience.,5,2024-08-11
+R0688,P0047,The product was decent but packaging was bad.,1,2024-08-07
+R0689,P0048,Item was defective upon arrival.,1,2024-05-30
+R0690,P0035,Exceeded expectations!,5,2023-04-18
+R0691,P0006,It stopped working after a week.,2,2024-08-29
+R0692,P0005,Not satisfied. Received wrong color.,5,2024-02-25
+R0693,P0016,Battery life could be better.,2,2023-05-22
+R0694,P0028,Exceeded expectations!,4,2023-09-23
+R0695,P0040,Good value for money and works as expected.,5,2023-04-25
+R0696,P0033,Amazing! Would buy again.,5,2023-01-12
+R0697,P0040,The product was decent but packaging was bad.,3,2024-07-02
+R0698,P0035,Excellent quality and delivery!,1,2024-05-31
+R0699,P0024,The product was decent but packaging was bad.,3,2023-07-17
+R0700,P0038,It stopped working after a week.,2,2024-07-11
+R0701,P0030,Item was defective upon arrival.,4,2023-01-15
+R0702,P0016,Amazing! Would buy again.,3,2024-10-14
+R0703,P0046,Item was defective upon arrival.,4,2024-08-06
+R0704,P0039,Very poor customer support experience.,5,2023-05-24
+R0705,P0050,Amazing! Would buy again.,5,2023-07-22
+R0706,P0016,Very poor customer support experience.,1,2024-02-15
+R0707,P0033,Exceeded expectations!,3,2023-03-13
+R0708,P0028,Battery life could be better.,1,2023-08-26
+R0709,P0025,It stopped working after a week.,4,2024-10-11
+R0710,P0026,Amazing! Would buy again.,5,2023-05-04
+R0711,P0006,Excellent quality and delivery!,4,2024-07-12
+R0712,P0005,Very poor customer support experience.,2,2024-10-02
+R0713,P0027,Terrible experience overall.,5,2024-10-13
+R0714,P0011,Average quality for the price.,2,2023-10-29
+R0715,P0010,Battery life could be better.,3,2024-08-16
+R0716,P0039,Terrible experience overall.,5,2023-11-23
+R0717,P0049,It stopped working after a week.,4,2024-07-29
+R0718,P0035,Item was defective upon arrival.,5,2024-01-30
+R0719,P0037,Excellent quality and delivery!,1,2023-06-27
+R0720,P0026,Terrible experience overall.,5,2024-09-30
+R0721,P0030,Terrible experience overall.,4,2024-07-20
+R0722,P0034,Perfect product! Worth every rupee.,2,2024-08-12
+R0723,P0002,Good value for money and works as expected.,2,2023-02-08
+R0724,P0033,Amazing! Would buy again.,3,2023-08-31
+R0725,P0049,Item was defective upon arrival.,2,2024-09-12
+R0726,P0032,Very poor customer support experience.,5,2023-10-29
+R0727,P0011,Very poor customer support experience.,4,2023-03-11
+R0728,P0009,Exceeded expectations!,4,2024-06-21
+R0729,P0028,Fast delivery and great performance.,3,2023-12-02
+R0730,P0043,Average quality for the price.,5,2024-03-31
+R0731,P0047,Exceeded expectations!,1,2023-11-13
+R0732,P0031,The product was decent but packaging was bad.,1,2024-07-04
+R0733,P0037,It stopped working after a week.,2,2023-05-09
+R0734,P0008,Very poor customer support experience.,4,2023-12-27
+R0735,P0046,Terrible experience overall.,1,2024-03-16
+R0736,P0038,Not satisfied. Received wrong color.,5,2023-02-27
+R0737,P0020,Very poor customer support experience.,5,2024-04-17
+R0738,P0006,Perfect product! Worth every rupee.,3,2024-03-20
+R0739,P0045,Fast delivery and great performance.,4,2023-04-10
+R0740,P0012,Very poor customer support experience.,1,2023-04-24
+R0741,P0044,Fast delivery and great performance.,4,2023-11-30
+R0742,P0048,Excellent quality and delivery!,1,2023-06-19
+R0743,P0004,Exceeded expectations!,5,2024-08-26
+R0744,P0043,Item was defective upon arrival.,5,2023-01-29
+R0745,P0011,Excellent quality and delivery!,1,2023-04-23
+R0746,P0041,Absolutely loved it! Highly recommend.,1,2023-06-16
+R0747,P0013,The product was decent but packaging was bad.,5,2023-10-02
+R0748,P0004,Good value for money and works as expected.,1,2023-01-16
+R0749,P0047,Item was defective upon arrival.,1,2024-09-03
+R0750,P0041,Fast delivery and great performance.,4,2024-02-01
+R0751,P0025,Very poor customer support experience.,4,2023-01-13
+R0752,P0021,Absolutely loved it! Highly recommend.,2,2023-02-08
+R0753,P0026,Very poor customer support experience.,4,2024-02-07
+R0754,P0034,Very poor customer support experience.,5,2024-09-18
+R0755,P0005,The product was decent but packaging was bad.,4,2024-07-21
+R0756,P0036,Terrible experience overall.,4,2024-10-03
+R0757,P0027,Amazing! Would buy again.,5,2023-04-30
+R0758,P0019,Perfect product! Worth every rupee.,3,2024-08-11
+R0759,P0028,The product was decent but packaging was bad.,5,2023-05-06
+R0760,P0008,Item was defective upon arrival.,4,2024-01-31
+R0761,P0039,Not satisfied. Received wrong color.,1,2023-07-27
+R0762,P0035,The product was decent but packaging was bad.,1,2023-11-13
+R0763,P0025,Excellent quality and delivery!,2,2024-05-22
+R0764,P0011,Very poor customer support experience.,3,2023-08-13
+R0765,P0023,Amazing! Would buy again.,5,2024-07-28
+R0766,P0038,It stopped working after a week.,2,2024-04-11
+R0767,P0049,Battery life could be better.,5,2023-07-29
+R0768,P0031,Very poor customer support experience.,3,2023-03-10
+R0769,P0008,Terrible experience overall.,4,2024-08-25
+R0770,P0041,Exceeded expectations!,2,2024-07-13
+R0771,P0009,Not satisfied. Received wrong color.,1,2024-01-30
+R0772,P0005,It stopped working after a week.,1,2024-09-26
+R0773,P0012,Terrible experience overall.,4,2024-09-03
+R0774,P0032,Exceeded expectations!,4,2024-04-01
+R0775,P0007,Absolutely loved it! Highly recommend.,2,2023-01-23
+R0776,P0029,Average quality for the price.,4,2024-07-24
+R0777,P0046,Amazing! Would buy again.,3,2024-08-10
+R0778,P0044,Perfect product! Worth every rupee.,2,2024-01-26
+R0779,P0007,It stopped working after a week.,2,2024-04-27
+R0780,P0037,It stopped working after a week.,2,2023-09-24
+R0781,P0050,Not satisfied. Received wrong color.,1,2024-09-13
+R0782,P0007,It stopped working after a week.,2,2024-10-18
+R0783,P0004,Good value for money and works as expected.,3,2023-08-17
+R0784,P0020,Average quality for the price.,5,2023-05-22
+R0785,P0005,The product was decent but packaging was bad.,4,2024-07-22
+R0786,P0025,Perfect product! Worth every rupee.,2,2024-09-20
+R0787,P0023,Absolutely loved it! Highly recommend.,2,2024-03-24
+R0788,P0021,Not satisfied. Received wrong color.,3,2023-05-29
+R0789,P0024,Absolutely loved it! Highly recommend.,5,2023-10-20
+R0790,P0046,Battery life could be better.,3,2024-09-26
+R0791,P0050,Average quality for the price.,1,2024-10-31
+R0792,P0010,Item was defective upon arrival.,4,2023-02-23
+R0793,P0019,Fast delivery and great performance.,5,2024-01-03
+R0794,P0003,Good value for money and works as expected.,5,2023-01-05
+R0795,P0039,Absolutely loved it! Highly recommend.,2,2023-05-30
+R0796,P0012,Battery life could be better.,4,2024-06-30
+R0797,P0050,Good value for money and works as expected.,4,2023-10-04
+R0798,P0042,Not satisfied. Received wrong color.,3,2024-03-01
+R0799,P0005,Not satisfied. Received wrong color.,4,2023-07-11
+R0800,P0009,Terrible experience overall.,2,2024-08-11
+R0801,P0048,Good value for money and works as expected.,3,2023-12-22
+R0802,P0030,It stopped working after a week.,4,2023-10-28
+R0803,P0016,Not satisfied. Received wrong color.,1,2024-08-27
+R0804,P0046,Good value for money and works as expected.,2,2024-08-19
+R0805,P0010,Absolutely loved it! Highly recommend.,1,2024-03-13
+R0806,P0003,Average quality for the price.,3,2024-08-09
+R0807,P0046,Battery life could be better.,5,2023-07-07
+R0808,P0034,Fast delivery and great performance.,4,2024-08-12
+R0809,P0004,Exceeded expectations!,1,2023-06-20
+R0810,P0044,Exceeded expectations!,5,2023-02-27
+R0811,P0012,Terrible experience overall.,2,2024-06-21
+R0812,P0020,Excellent quality and delivery!,2,2024-07-05
+R0813,P0018,Battery life could be better.,1,2023-03-14
+R0814,P0004,Perfect product! Worth every rupee.,3,2023-05-26
+R0815,P0004,Perfect product! Worth every rupee.,3,2023-02-03
+R0816,P0043,Battery life could be better.,3,2023-11-07
+R0817,P0021,It stopped working after a week.,3,2023-07-01
+R0818,P0009,Battery life could be better.,2,2023-05-23
+R0819,P0011,Not satisfied. Received wrong color.,3,2023-08-17
+R0820,P0002,Exceeded expectations!,5,2024-10-08
+R0821,P0042,Fast delivery and great performance.,2,2024-10-10
+R0822,P0049,Very poor customer support experience.,2,2024-05-23
+R0823,P0037,Battery life could be better.,1,2024-08-27
+R0824,P0043,Not satisfied. Received wrong color.,2,2023-06-06
+R0825,P0015,Very poor customer support experience.,2,2024-07-22
+R0826,P0011,Amazing! Would buy again.,5,2024-03-20
+R0827,P0019,Item was defective upon arrival.,5,2024-01-06
+R0828,P0032,Amazing! Would buy again.,3,2024-10-10
+R0829,P0012,Fast delivery and great performance.,5,2023-04-04
+R0830,P0042,Item was defective upon arrival.,3,2023-07-25
+R0831,P0040,Not satisfied. Received wrong color.,1,2024-04-30
+R0832,P0007,Not satisfied. Received wrong color.,1,2024-07-30
+R0833,P0007,Not satisfied. Received wrong color.,3,2024-10-04
+R0834,P0011,Terrible experience overall.,1,2023-09-05
+R0835,P0017,Battery life could be better.,1,2024-06-12
+R0836,P0041,Good value for money and works as expected.,2,2023-09-30
+R0837,P0019,Battery life could be better.,3,2023-08-18
+R0838,P0047,Terrible experience overall.,1,2024-03-29
+R0839,P0011,Exceeded expectations!,3,2023-10-18
+R0840,P0034,Good value for money and works as expected.,1,2024-10-02
+R0841,P0004,It stopped working after a week.,1,2024-06-21
+R0842,P0034,Average quality for the price.,4,2023-02-11
+R0843,P0021,Good value for money and works as expected.,1,2024-04-17
+R0844,P0040,Very poor customer support experience.,5,2023-10-08
+R0845,P0026,Excellent quality and delivery!,5,2023-07-16
+R0846,P0014,Good value for money and works as expected.,3,2024-03-05
+R0847,P0045,Item was defective upon arrival.,5,2024-10-19
+R0848,P0002,Fast delivery and great performance.,4,2023-10-28
+R0849,P0010,Amazing! Would buy again.,3,2023-01-06
+R0850,P0022,Very poor customer support experience.,1,2024-05-18
+R0851,P0019,Exceeded expectations!,5,2023-01-04
+R0852,P0018,Excellent quality and delivery!,3,2024-01-26
+R0853,P0007,Average quality for the price.,5,2024-09-25
+R0854,P0037,Perfect product! Worth every rupee.,2,2024-02-26
+R0855,P0043,Fast delivery and great performance.,4,2023-10-09
+R0856,P0050,Not satisfied. Received wrong color.,2,2024-09-04
+R0857,P0001,It stopped working after a week.,4,2023-11-01
+R0858,P0035,It stopped working after a week.,3,2023-12-10
+R0859,P0035,Good value for money and works as expected.,5,2023-09-30
+R0860,P0048,Good value for money and works as expected.,1,2023-03-30
+R0861,P0022,The product was decent but packaging was bad.,1,2024-08-15
+R0862,P0001,Amazing! Would buy again.,5,2023-09-26
+R0863,P0050,The product was decent but packaging was bad.,4,2024-08-19
+R0864,P0023,Good value for money and works as expected.,1,2023-05-22
+R0865,P0035,Very poor customer support experience.,2,2023-06-16
+R0866,P0017,Battery life could be better.,1,2024-04-02
+R0867,P0031,Exceeded expectations!,1,2024-06-27
+R0868,P0036,It stopped working after a week.,3,2024-04-26
+R0869,P0025,Battery life could be better.,3,2024-09-05
+R0870,P0011,Fast delivery and great performance.,4,2023-12-18
+R0871,P0002,Amazing! Would buy again.,2,2024-07-16
+R0872,P0040,Average quality for the price.,3,2023-11-08
+R0873,P0023,Excellent quality and delivery!,5,2023-10-03
+R0874,P0032,Absolutely loved it! Highly recommend.,5,2023-05-13
+R0875,P0017,Exceeded expectations!,4,2024-06-20
+R0876,P0022,It stopped working after a week.,1,2023-01-18
+R0877,P0022,Average quality for the price.,4,2023-05-25
+R0878,P0029,Terrible experience overall.,2,2024-06-13
+R0879,P0012,The product was decent but packaging was bad.,1,2023-03-01
+R0880,P0010,Exceeded expectations!,4,2023-07-10
+R0881,P0025,The product was decent but packaging was bad.,5,2023-07-02
+R0882,P0002,Item was defective upon arrival.,4,2024-06-02
+R0883,P0032,Battery life could be better.,2,2023-10-26
+R0884,P0020,Average quality for the price.,2,2023-06-26
+R0885,P0028,It stopped working after a week.,2,2024-06-20
+R0886,P0024,The product was decent but packaging was bad.,5,2023-01-22
+R0887,P0011,Average quality for the price.,5,2023-09-18
+R0888,P0022,Amazing! Would buy again.,3,2023-04-21
+R0889,P0048,The product was decent but packaging was bad.,4,2024-08-24
+R0890,P0011,Good value for money and works as expected.,3,2023-09-02
+R0891,P0014,Not satisfied. Received wrong color.,1,2023-06-04
+R0892,P0044,Terrible experience overall.,1,2024-07-26
+R0893,P0019,Very poor customer support experience.,2,2024-05-29
+R0894,P0024,It stopped working after a week.,5,2024-06-28
+R0895,P0014,Perfect product! Worth every rupee.,5,2023-11-06
+R0896,P0005,Absolutely loved it! Highly recommend.,2,2024-08-24
+R0897,P0003,Fast delivery and great performance.,2,2023-02-05
+R0898,P0035,Terrible experience overall.,4,2023-05-14
+R0899,P0002,The product was decent but packaging was bad.,2,2024-07-09
+R0900,P0002,Good value for money and works as expected.,4,2023-05-08
+R0901,P0047,It stopped working after a week.,5,2023-04-19
+R0902,P0049,Terrible experience overall.,2,2023-08-23
+R0903,P0021,Average quality for the price.,3,2024-03-06
+R0904,P0048,Battery life could be better.,3,2023-08-08
+R0905,P0010,Perfect product! Worth every rupee.,1,2023-04-05
+R0906,P0048,Good value for money and works as expected.,5,2024-01-18
+R0907,P0046,Absolutely loved it! Highly recommend.,2,2024-09-17
+R0908,P0022,Very poor customer support experience.,2,2023-09-16
+R0909,P0043,Terrible experience overall.,4,2024-02-24
+R0910,P0037,Good value for money and works as expected.,5,2023-08-20
+R0911,P0042,Item was defective upon arrival.,1,2024-08-13
+R0912,P0030,Not satisfied. Received wrong color.,3,2024-08-03
+R0913,P0020,Good value for money and works as expected.,2,2023-03-11
+R0914,P0024,Amazing! Would buy again.,5,2024-08-22
+R0915,P0043,Fast delivery and great performance.,2,2023-05-14
+R0916,P0039,Exceeded expectations!,4,2023-10-21
+R0917,P0015,Average quality for the price.,5,2024-10-22
+R0918,P0016,Absolutely loved it! Highly recommend.,2,2024-08-24
+R0919,P0013,Good value for money and works as expected.,3,2024-03-20
+R0920,P0032,Exceeded expectations!,3,2024-10-03
+R0921,P0032,Fast delivery and great performance.,2,2023-10-28
+R0922,P0049,Not satisfied. Received wrong color.,1,2024-08-18
+R0923,P0035,Fast delivery and great performance.,2,2024-02-19
+R0924,P0044,Terrible experience overall.,5,2023-01-27
+R0925,P0033,Item was defective upon arrival.,1,2024-02-29
+R0926,P0013,Fast delivery and great performance.,5,2024-01-05
+R0927,P0034,Not satisfied. Received wrong color.,4,2024-03-02
+R0928,P0002,Perfect product! Worth every rupee.,1,2023-06-04
+R0929,P0040,Average quality for the price.,4,2023-02-13
+R0930,P0045,Item was defective upon arrival.,2,2023-05-22
+R0931,P0009,Excellent quality and delivery!,5,2024-07-30
+R0932,P0033,Perfect product! Worth every rupee.,5,2023-08-17
+R0933,P0014,Perfect product! Worth every rupee.,5,2023-04-30
+R0934,P0024,Perfect product! Worth every rupee.,3,2023-11-23
+R0935,P0003,The product was decent but packaging was bad.,1,2024-02-19
+R0936,P0032,Terrible experience overall.,5,2024-09-01
+R0937,P0040,Amazing! Would buy again.,4,2023-08-17
+R0938,P0042,Excellent quality and delivery!,2,2024-08-03
+R0939,P0028,Very poor customer support experience.,5,2023-11-17
+R0940,P0018,Amazing! Would buy again.,3,2023-08-20
+R0941,P0030,Good value for money and works as expected.,2,2024-10-05
+R0942,P0011,Item was defective upon arrival.,5,2023-10-17
+R0943,P0019,Average quality for the price.,3,2023-08-30
+R0944,P0050,Terrible experience overall.,2,2023-09-08
+R0945,P0004,Very poor customer support experience.,2,2023-11-17
+R0946,P0032,Excellent quality and delivery!,5,2023-07-17
+R0947,P0026,The product was decent but packaging was bad.,4,2023-03-02
+R0948,P0007,Good value for money and works as expected.,3,2023-07-30
+R0949,P0041,Good value for money and works as expected.,2,2023-12-09
+R0950,P0021,It stopped working after a week.,4,2024-02-08
+R0951,P0032,Terrible experience overall.,2,2024-10-22
+R0952,P0043,Not satisfied. Received wrong color.,1,2023-03-20
+R0953,P0044,Average quality for the price.,4,2024-08-24
+R0954,P0021,Absolutely loved it! Highly recommend.,5,2023-09-14
+R0955,P0023,It stopped working after a week.,1,2024-09-08
+R0956,P0024,Not satisfied. Received wrong color.,2,2023-06-01
+R0957,P0050,The product was decent but packaging was bad.,3,2024-02-26
+R0958,P0039,Not satisfied. Received wrong color.,3,2023-05-31
+R0959,P0022,The product was decent but packaging was bad.,3,2024-06-13
+R0960,P0040,Excellent quality and delivery!,2,2023-12-09
+R0961,P0022,Very poor customer support experience.,1,2024-04-25
+R0962,P0005,Item was defective upon arrival.,2,2023-11-21
+R0963,P0004,Terrible experience overall.,3,2023-06-16
+R0964,P0002,Exceeded expectations!,4,2024-01-05
+R0965,P0003,It stopped working after a week.,1,2023-07-21
+R0966,P0019,Battery life could be better.,2,2024-03-26
+R0967,P0034,Battery life could be better.,5,2024-07-19
+R0968,P0046,The product was decent but packaging was bad.,5,2023-12-20
+R0969,P0036,Exceeded expectations!,3,2024-07-21
+R0970,P0001,Good value for money and works as expected.,1,2024-07-29
+R0971,P0004,Fast delivery and great performance.,1,2024-06-09
+R0972,P0035,Terrible experience overall.,5,2023-06-05
+R0973,P0047,Battery life could be better.,2,2023-08-30
+R0974,P0028,Perfect product! Worth every rupee.,1,2023-06-12
+R0975,P0044,The product was decent but packaging was bad.,2,2023-11-26
+R0976,P0031,Amazing! Would buy again.,3,2023-11-08
+R0977,P0014,Absolutely loved it! Highly recommend.,2,2023-05-25
+R0978,P0040,Absolutely loved it! Highly recommend.,1,2023-04-07
+R0979,P0021,Fast delivery and great performance.,3,2023-12-23
+R0980,P0028,Not satisfied. Received wrong color.,3,2023-04-03
+R0981,P0002,Not satisfied. Received wrong color.,2,2024-10-29
+R0982,P0019,Average quality for the price.,5,2024-07-27
+R0983,P0050,Good value for money and works as expected.,4,2024-10-25
+R0984,P0006,Good value for money and works as expected.,5,2024-03-20
+R0985,P0040,It stopped working after a week.,4,2023-12-12
+R0986,P0001,Amazing! Would buy again.,5,2023-10-30
+R0987,P0015,Amazing! Would buy again.,3,2024-09-27
+R0988,P0015,Fast delivery and great performance.,2,2024-05-08
+R0989,P0006,Exceeded expectations!,1,2023-08-02
+R0990,P0049,Amazing! Would buy again.,1,2024-01-09
+R0991,P0024,Good value for money and works as expected.,3,2023-07-20
+R0992,P0014,Not satisfied. Received wrong color.,1,2023-08-17
+R0993,P0013,It stopped working after a week.,5,2024-10-28
+R0994,P0034,Battery life could be better.,5,2023-09-16
+R0995,P0026,Very poor customer support experience.,4,2024-03-10
+R0996,P0050,Average quality for the price.,4,2024-09-08
+R0997,P0032,Terrible experience overall.,3,2024-01-09
+R0998,P0031,Fast delivery and great performance.,5,2024-08-24
+R0999,P0003,Terrible experience overall.,3,2023-12-11
+R1000,P0050,Absolutely loved it! Highly recommend.,1,2023-02-28
